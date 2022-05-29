@@ -5,15 +5,15 @@ April 02, 2022
 
 Инструкции по установке mhddos_proxy напрямую на Windows / Mac / Linux / Android: [ссылка!](https://github.com/BionecX/mhddos_p/blob/main/docs/installation.md)
 
-Автоматизированный mhddos_proxy для Linux: [ссылка!](https://github.com/alexnest-ua/auto_mhddos_alexnest#readme)
+Автоматизированный mhddos_proxy для Linux: [ссылка!](https://github.com/alexnest-ru/auto_mhddos_alexnest#readme)
 
-Автоматизированный mhddos_proxy для Windows: [ссылка!](https://github.com/alexnest-ua/runner_for_windows#readme) 
+Автоматизированный mhddos_proxy для Windows: [ссылка!](https://github.com/alexnest-ru/runner_for_windows#readme) 
 
 
 то есть Docker, который, по сути, является целой виртуальной машиной и жрет много ресурсов, не нужен вообще - 🔺замена на python скрипт поможет снизить нагрузку на ваш процессор в 2-3 раза
 
 
-Автоматизированный mhddos_proxy для Docker: [ссылка!](https://github.com/alexnest-ua/auto_mhddos_alexnest/tree/docker#readme)
+Автоматизированный mhddos_proxy для Docker: [ссылка!](https://github.com/alexnest-ru/auto_mhddos_alexnest/tree/docker#readme)
 
 
 <h1 align="center">🟢Полезная информация по MHDDoS и mhddos_proxy🟢</h1>
@@ -138,7 +138,7 @@ https://github.com/MatrixTM/MHDDoS  (полностью открытый код)
 
 Теперь процесс будет работать даже при закрытии терминала
 (т.е. 24/7, если мы говорим о Linux-серверах:
-[ссылка](https://auto-ddos.notion.site/dd91326ed30140208383ffedd0f13e5ccc)
+[ссылка](https://auto-ddos.notion.site/dd91326ed30140208383ffedd0f13e5ccc1)
 
 В этом случае процессу присваивается имя voenkomat, которое вы потом сможете
 1) Отследить вот так:
