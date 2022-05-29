@@ -18,7 +18,7 @@ Windows / Linux / Mac / Android:  [ссылка](https://github.com/BionecX/mhdd
 
 
 Анализ средства mhddos_p (что он выводит, и все его преимущества):
-README_analiz_sredstva_mhddos_h.md
+[ссылка](https://github.com/BionecX/mhddos_p_docs/blob/main/docs/README_analiz_sredstva_mhddos_h.md)
 
 
 ❗️Создание ботнета из 30+ бесплатных и автономных (работают даже при выключенном ПК) Linux-серверов: [ссылка](https://auto-ddos.notion.site/dd91326ed30140208383ffedd0f13e5ccc)
@@ -137,7 +137,7 @@ https://notepad-plus-plus.org/downloads/v8.2.1/
 
 
 ❗️Нужно установить супер-быстрый и стабильный VPN, чтобы ваш провайдер не резал трафик из-за подключения ко многим IP(прокси):
-https://auto-ddos.notion.site/VPN-effde85923534cf7b4caa198a0ef0d23
+[ссылка](https://auto-ddos.notion.site/VPN-effde85923534cf7b4caa198a0ef0d23ccc)
 
 Если вы будете без ВПН, то у вас вообще может попасть интернет на роутере, как было у меня, потому что провайдеры не любят когда из их IP идет трафик на большое количество других IP(прокси)
 
